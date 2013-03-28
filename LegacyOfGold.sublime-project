@@ -2,15 +2,14 @@
 	"folders":
 	[
 		{
-			"path": "/D/C++/Mojam2",
-			"path": "/F/Games/Halo CE Portable Edition By Am3n/Mojam2"
+			"path": "src"
 		}
 	],
 	"options":
 	[
-		"-L C:\\MinGW\\lib",
-		"-lSDL",
-		"-lSDLmain"
+		//"-L C:\\MinGW\\lib",
+		//"-lSDL",
+		//"-lSDLmain"
 	],
 	"sublimeclang_options":
 	[
