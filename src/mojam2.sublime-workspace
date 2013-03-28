@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Component",
+				"ComponentIdType"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"Lo",
+				"Logout"
+			],
+			[
+				"include",
+				"include_path"
+			],
+			[
+				"ParseData",
+				"ParseDataAsString"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/C++(gcc).sublime-build",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 132.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/component.cpp",
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/event_message.h",
+		"/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/event_message.cpp",
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/component_tile_position.h",
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/component.h",
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/engine.h",
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/module.h",
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/linked_module.h",
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/linked_module.cpp",
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/entity.cpp",
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/graphics.cpp",
+		"/F/Games/Halo CE Portable Edition By Am3n/Mojam2/mojam2.sublime-project",
+		"/D/C++/Mojam2/level.cpp",
+		"/D/C++/Mojam2/graphics.cpp",
+		"/D/C++/Mojam2/module.cpp",
+		"/D/C++/Mojam2/entity.h",
+		"/D/C++/Mojam2/component_tile_position.cpp",
+		"/D/C++/Mojam2/event_message.h",
+		"/D/C++/Mojam2/event_message.cpp",
+		"/D/C++/Mojam2/graphics.h",
+		"/D/C++/Mojam2/component.cpp",
+		"/D/C++/Mojam2/component_tile_position-h",
+		"/D/C++/Mojam2/entity.cpp",
+		"/D/C++/Mojam2/engine.cpp",
+		"/D/C++/Mojam2/level.h",
+		"/D/C++/Mojam2/item.h",
+		"/D/C++/Mojam2/component.h",
+		"/D/C++/Mojam2/tinyxml2.cpp",
+		"/D/G_Alpha/Guldmannen Alpha II/Guldmannen Alpha II/Source/Logic/Level.cpp",
+		"/D/C++/Mojam2/module.h",
+		"/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/D/C++/Mojam2/engine.h",
+		"/D/C++/Mojam2/item_database.h",
+		"/D/C++/Mojam2/sprite.h",
+		"/D/C++/Mojam2/resource_handler.h",
+		"/D/C++/Mojam2/main.cpp",
+		"/D/C++/Mojam2/mojam2.sublime-project",
+		"/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/SublimeClang/Default.sublime-keymap",
+		"/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/User/SublimeClang.sublime-settings",
+		"/D/C++/Mojam2/xml_reader.h",
+		"/D/C++/Mojam2/mojam2.sublime-workspace",
+		"/D/C++/LiuLab3/del2.cpp",
+		"/D/C++/LiuLab3/del1.cpp",
+		"/D/G_Alpha/Guldmannen Alpha II/Release/resources/levels/browser2.level",
+		"/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/User/C++(gcc).sublime-build",
+		"/C/Users/Zer0XoL/Documents/Visual Studio 2010/Projects/dawas/User.sublime-project",
+		"/D/G_Alpha/SoundEvent.java",
+		"/D/G_Alpha/SoundPlayer.java",
+		"/D/G_Alpha/SoundEventListener.java",
+		"/D/Lan spel/MC Tekkit Server 2.0/config/NEI.cfg",
+		"/D/Lan spel/MC Tekkit Server 2.0/config/ModLoader.cfg",
+		"/C/Users/Zer0XoL/AppData/Roaming/.techniclauncher/tekkit/config/forestry/base.conf",
+		"/C/Users/Zer0XoL/AppData/Roaming/.techniclauncher/tekkit/redpower/redpower.cfg",
+		"/D/Lan spel/MC Tekkit Server 2.0/plugins/WorldEdit/config.yml",
+		"/D/Lan spel/MC Tekkit Server 2.0/mods/weaponmod/weaponmod.properties",
+		"/D/Lan spel/MC Tekkit Server 2.0/buildcraft/config/buildcraft.cfg",
+		"/D/Lan spel/MC Tekkit Server 2.0/buildcraft/config/AdditionalPipes.cfg",
+		"/D/Lan spel/MC Tekkit Server 2.0/redpower/redpower.lang",
+		"/D/Lan spel/MC Tekkit Server 2.0/redpower/redpower.cfg",
+		"/D/Lan spel/MC Tekkit Server 2.0/config/forestry/pipes.conf",
+		"/D/Lan spel/MC Tekkit Server 2.0/config/forestry/base.conf",
+		"/D/Lan spel/MC Tekkit Server 2.0/config/railcraft.cfg",
+		"/D/Lan spel/MC Tekkit Server 2.0/config/PowerConverters.cfg",
+		"/D/Lan spel/MC Tekkit Server 2.0/config/NetherOres.cfg",
+		"/C/Users/Zer0XoL/AppData/Roaming/.techniclauncher/tekkit/config/mod_ComputerCraft.cfg",
+		"/D/G_Alpha/Guldmannen Alpha II/Release/resources/entities/characters/standard_player.entity",
+		"/D/G_Alpha/Guldmannen Alpha II/Release/resources/levels/combat.level",
+		"/D/Lan spel/MC Tekkit Server 2.0/config/mod_ComputerCraft.cfg",
+		"/D/Lan spel/MC Tekkit Server 2.0/config/IC2.cfg",
+		"/D/Lan spel/MC Tekkit Server 2.0/config/EnderChest.cfg",
+		"/C/Users/Zer0XoL/Documents/Visual Studio 2010/Projects/dawas/main.cpp",
+		"/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/User/C++(visual_studio).sublime-build",
+		"/C/Users/Zer0XoL/Documents/Visual Studio 2010/Projects/dawas/user.h",
+		"/C/Users/Zer0XoL/Documents/Visual Studio 2010/Projects/dawas/user.cpp",
+		"/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/SublimeGDB/Default.sublime-keymap",
+		"/C/Program Files (x86)/Microsoft Visual Studio 10.0/VC/include/cmath",
+		"/C/MinGW/include/stdio.h",
+		"/C/Program Files (x86)/Microsoft Visual Studio 10.0/VC/include/system_error",
+		"/C/Users/Zer0XoL/Documents/Visual Studio 2010/Projects/dawas/User.sublime-workspace",
+		"/D/Development/NET2/fastevents.c",
+		"/D/Development/NET2/fastevents.h",
+		"/D/Development/SDL-1.2.14/include/SDL_events.h",
+		"/C/Users/Zer0XoL/Downloads/tc.cpp",
+		"/C/Users/Zer0XoL/Downloads/ts.cpp",
+		"/C/Users/Zer0XoL/Downloads/us.cpp",
+		"/C/Users/Zer0XoL/Downloads/uc.cpp",
+		"/D/Game dev misc/klkl/main.cpp",
+		"/D/Game dev misc/klkl/klkl.sublime-project",
+		"/C/Users/Zer0XoL/Documents/Visual Studio 2010/Projects/SDL_Network Based Game/SDL_Network Based Game/server.cpp",
+		"/C/Users/Zer0XoL/Documents/Visual Studio 2010/Projects/SDL_Network Based Game/SDL_Network Based Game/game_object.cpp",
+		"/C/Users/Zer0XoL/Documents/Visual Studio 2010/Projects/SDL_Network Based Game/SDL_Network Based Game/user.cpp",
+		"/C/Users/Zer0XoL/Documents/Visual Studio 2010/Projects/SDL_Network Based Game/SDL_Network Based Game/server.h",
+		"/C/Users/Zer0XoL/Documents/Visual Studio 2010/Projects/SDL_Network Based Game/SDL_Network Based Game/main.cpp",
+		"/D/G_Alpha/Guldmannen Alpha II/Guldmannen Alpha II/Source/Misc/vec.h",
+		"/D/G_Alpha/Guldmannen Alpha II/Guldmannen Alpha II/EntityHandler.cpp",
+		"/D/G_Alpha/Guldmannen Alpha II/Guldmannen Alpha II/resources/entities/characters/standard_player.entity",
+		"/D/G_Alpha/Guldmannen Alpha II/Guldmannen Alpha II/resources/levels/town1.level",
+		"/D/G_Alpha/Guldmannen Alpha II/Guldmannen Alpha II/resources/levels/Collision.level"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"consolas",
+			"input",
+			"207",
+			"208",
+			"207",
+			"208",
+			"207",
+			"error",
+			"std",
+			"´std",
+			"poll",
+			"temp->",
+			"47",
+			"Level"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Zer0XoL/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 97.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": false
+}

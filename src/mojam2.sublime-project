@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "/D/C++/Mojam2",
+			"path": "/F/Games/Halo CE Portable Edition By Am3n/Mojam2"
+		}
+	],
+	"options":
+	[
+		"-L C:\\MinGW\\lib",
+		"-lSDL",
+		"-lSDLmain"
+	],
+	"sublimeclang_options":
+	[
+		"-I${folder:${project_path:my_widget.sublime-project}}/**"
+	]
+}
